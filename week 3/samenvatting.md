@@ -1,0 +1,8 @@
+- introductie Firebird 
+- projecties
+- operatoren
+- functies
+- SELECT WHERE
+- Ordering: ORDER BY
+- inner joins 
+- Outer joins 

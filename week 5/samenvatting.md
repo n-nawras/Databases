@@ -1,0 +1,8 @@
+- subselects als oplossing voor deelproblemen
+- gecorreleerde subselects
+- levenswijzen van een database
+- Transacties
+- Integriteitsregels 
+- Insert
+- delete 
+- update
