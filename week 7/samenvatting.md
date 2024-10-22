@@ -1,2 +1,0 @@
-- Privileges
-- Privileges verlenen 

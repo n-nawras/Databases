@@ -1,7 +1,0 @@
-- Joinoperatoren
-- Joins ocer een brede sleutel 
-- Samengestelde joins 
-- Autojoins 
-- statostoelen over een groep
-- statistieken over meerdere groepen
-- statische joinquery

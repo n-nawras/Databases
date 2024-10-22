@@ -1,5 +1,0 @@
-- de eerste normalvorm
-- functionele afhankelijkheid
-- de tweede normallvorm
-- de derde normaalvorm 
-- stappenplan

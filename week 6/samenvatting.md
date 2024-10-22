@@ -1,9 +1,0 @@
-- Data definition language
-- levenscylus van een database
-- tabellen 
-- kolomdefinities
-- constraints 
-- Views 
-- Bedreigingen van de security 
-- Gebruikers 
-- Rollen en het beheer ervan 
